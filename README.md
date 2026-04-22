@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Avnish Butar</h1>
-<h3 align="center">Turning Data into Decisions | Data Analyst | Python & Power BI Enthusiast</h3>
+<h3 align="center">Turning Data into Decisions |  Python & AI Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:butaravnish1@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail"></a>
@@ -24,7 +24,7 @@
 <summary><strong>📚 Education</strong></summary>
 
 - 🎓 **Noida Institute of Engineering and Technology** (2022 – 2026)  
-  B.Tech in Data Science — *CGPA: 8.63*
+  B.Tech in Data Science — *CGPA: 8.25*
 
 - 🏫 **Jawahar Navodaya Vidyalaya, Sardhana** (2019 – 2020)  
   Intermediate (PCM) — *Percentage: 87.8%*
@@ -62,9 +62,9 @@
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| 🔹 [Car Price Prediction](https://github.com/AvnishButar/CarPricePrediction) | Predicts car price using ML model and Flask UI. | Flask, Pandas, Pickle |
-| 🔹 [NewsFeed Analysis](https://github.com/AvnishButar/NewsFeed-Analysis) | Visualizes user activity & sentiment in social media feed. | SQL, Python, Tableau |
-| 🔹 [Servo Performance Prediction](https://github.com/AvnishButar/Servo-Prediction) | Estimates servo motor output using regression models. | Python, ML, UCI Dataset |
+| 🔹 [Smart Attendance System using QR code](https://github.com/AvnishButar/Smart-Attendance-System-using-QR-code) | Predicts car price using ML model and Flask UI. | Flask, Pandas, Pickle |
+| 🔹 [CodeHelper](https://github.com/AvnishButar/CodeHelper) | Visualizes user activity & sentiment in social media feed. | SQL, Python, Tableau |
+| 🔹 [Smart Assistant for Research Summarization](https://github.com/AvnishButar/Smart-Assistant-for-Research-Summarization) | Estimates servo motor output using regression models. | Python, ML, UCI Dataset |
 
 ---
 
